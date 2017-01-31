@@ -1,0 +1,33 @@
+task_title,time_stamp,start_flag,end_flag,risk,difficulty,r_hardware,r_software,r_people,r_consumables,r_attire,r_tools
+AAO - Stowage Planning,5,1,0,0.4,0.7,,,0.3,,,
+AAO - Stowage Planning,7,0,0,0.2,0.65,,,0.25,,,
+AAO - Stowage Planning,9,0,0,0.3,0.5,,,0.22,,,
+AAO - Stowage Planning,11,0,1,0.1,0.4,,,0.1,,,
+ABO - Vessel Schedule,3,1,0,0.7,0.9,,0.1,0.6,,,
+ABO - Vessel Schedule,6,0,1,0.4,0.5,,0.1,0.5,,,
+ACO - Safety/Security Managament,1,1,0,0.1,0.2,,,0.2,,0.2,
+ACO - Safety/Security Managament,5,0,0,0.42,0.28,,,0.56,,0.84,
+ACO - Safety/Security Managament,10,0,0,0.5,0.3,,,0.3,,0.1,
+ACO - Safety/Security Managament,12,0,0,0.3,0.2,,,0.3,,0.1,
+ACO - Safety/Security Managament,15,0,0,0.4,0.45,,,0.45,,0.8,
+ACO - Safety/Security Managament,21,0,0,0.3,0.44,,,0.44,,0.6,
+ACO - Safety/Security Managament,25,0,0,0.1,0.4,,,0.8,,0.1,
+ACO - Safety/Security Managament,31,0,1,0.08,0.12,,,0.12,,0.16,
+BAO - Railcar Unloading,15,1,0,0.05,0.7,0.6,,0.1,,,0.8
+BAO - Railcar Unloading,17,0,1,0.02,0.7,0.2,,0.1,,,0.8
+BBO - Cargo Staging,15,1,0,0.12,0.5,,0.1,0.4,0.2,,
+BBO - Cargo Staging,17,0,1,0.1,0.45,,0.12,0.3,0.2,,
+BBA - Fueling,18,1,0,0.05,0.1,0.3,,,0.8,,
+BBA - Fueling,19,0,1,0.02,0.05,0.35,,,0.9,,
+BCO - Scanning / RFID,15,1,0,0.6,0.7,0.5,0.5,,,,0.28
+BCO - Scanning / RFID,16,0,0,0.4,0.6,0.2,0.29,,,,0.27
+BCO - Scanning / RFID,17,0,1,0.4,0.45,0.21,0.5,,,,0.16
+CAO - Roll - on,20,1,0,0.9,0.8,0.45,0.21,0.5,0.2,,0.6
+CAO - Roll - on,22,0,1,0.1,0.5,0.38,0.14,0.5,0.21,,0.52
+CBO - Cargo Stowage,20,1,0,0.85,0.9,0.5,0.12,0.6,0.5,,0.9
+CBO - Cargo Stowage,21,0,0,0.72,0.8,0.5,0.21,0.3,0.4,,0.5
+CBO - Cargo Stowage,22,0,1,0.45,0.2,0.5,0.3,0.3,0.6,,0.4
+CBA - Strapping,20,1,0,0.05,0.2,0.5,0.21,0.5,0.2,0.2,0.6
+CBA - Strapping,22,0,1,0.02,0.1,0.5,0.12,0.4,0.6,0.2,0.5
+DAO - Ourturn Reporting,23,1,0,0.45,0.3,,,0.3,,,
+DAO - Ourturn Reporting,24,0,1,0.3,0.15,,,0.3,,,
