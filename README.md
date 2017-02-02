@@ -9,7 +9,7 @@ The aim of the project was to develop a data visualization tool for analyzing mu
 
 [Interaction video](https://vimeo.com/194406252)
 
-[Course webpage](mat.ucsb.edu/~g.legrady/academic/courses/16f594/mert/mert.html)
+[Course webpage](https://mat.ucsb.edu/~g.legrady/academic/courses/16f594/mert/mert.html)
 
 # Dependencies
 
