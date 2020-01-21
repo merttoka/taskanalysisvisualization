@@ -2,7 +2,7 @@
 
 The aim of the project was to develop a data visualization tool for analyzing multiple tasks in the work environment. Tasks are defined with five parameters, namely title, temporal values, riskiness, workload, and multiple resources. Final system should reveal possible resource conflicts in an obvious way.
 
-### Couple of screenshots
+### Screenshots
 ![example1](ss6.png)
 ![example2](ss3.png)
 ![example3](ss5.png)
